@@ -1,5 +1,18 @@
 .App {
   text-align: center;
+  border: 2px solid grey;
+  padding: 20px;
+  width: 50%;
+  margin: auto;
+}
+
+.Counter {
+  background-color: bisque;
+  padding: 0 5px;
+  width: min-content;
+  margin: 20px auto;
+  border-radius: 2px;
+  
 }
 
 .App-logo {
